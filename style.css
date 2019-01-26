@@ -1,0 +1,18 @@
+body{ background-color:black; color:white; }
+h1{background-color:red; text-align: center; !important;}
+.backcolor{background-color:white; color:black;}
+#tableheader{background-color:red; font-weight:bold; font-style:italic;}
+img{width:200px;height:200px; border-color: white; 
+    class:center; display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+	.footer { 
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 12px;} 
