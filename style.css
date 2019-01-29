@@ -1,5 +1,5 @@
 body{ background-color:black; color:white; }
-h1{background-color:red; text-align: center; !important;}
+h1{background-color:white; text-align: center; font-size: 40px; !important;}
 .backcolor{background-color:white; color:black;}
 #tableheader{background-color:red; font-weight:bold; font-style:italic;}
 img{width:200px;height:200px; border-color: white; 
@@ -16,3 +16,4 @@ img{width:200px;height:200px; border-color: white;
   color: white;
   text-align: center;
   font-size: 12px;} 
+li{font-size:24px; color:white;} 
